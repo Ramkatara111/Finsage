@@ -475,6 +475,3 @@ Maharaja Agrasen Institute of Technology, New Delhi
 
 ---
 
-## ⭐ Support
-
-If you find FinSage useful, consider giving the repository a ⭐ on GitHub.
